@@ -1,4 +1,4 @@
-### Olá pessoal! meu nome é João Manoel mais conhecido como D4RKK👋
+### Olá pessoal👋
 
 <div>
   
