@@ -2,8 +2,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomanoelaraujo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelaraujo&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -27,7 +27,7 @@
     <a href = "https://www.youtube.com/channel/Joaum1k">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "[https://www.instagram.com/eujohnm/](https://www.instagram.com/eujoohnm/)">
+    <a href = "https://www.instagram.com/eujoohnm/">
       <img width="25" src="instagram.png">
     </a>
 </div>
