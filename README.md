@@ -30,7 +30,6 @@
     <a href = "https://www.instagram.com/eujoohnm/">
       <img width="25" src="instagram.png">
     </a>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/678060899084402718)](https://discord.com/users/678060899084402718)
 </div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/678060899084402718)](https://discord.com/users/678060899084402718)
