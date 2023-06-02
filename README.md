@@ -1,6 +1,6 @@
 ### Olá pessoas!👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomanoelaraujo&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelaraujo&hide_progress=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelaraujo&hide_progress=true)
 <br>
 
 <div  align="center"> 
