@@ -20,39 +20,6 @@ Java Backend Developer • Minecraft Plugin Developer • Open Source Enthusiast
 
 # 👨‍💻 About Me
 
-```java
-public class JoaoManoel {
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript"
-    };
-
-    String[] backend = {
-        "Node.js",
-        "Spigot API",
-        "Paper API",
-        "Bukkit API"
-    };
-
-    String[] databases = {
-        "MySQL",
-        "MariaDB",
-        "SQLite",
-        "MongoDB"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "Maven",
-        "IntelliJ IDEA"
-    };
-
-}
-```
-
 I'm a Brazilian Backend Developer focused on creating scalable software and premium Minecraft plugins.
 
 Currently working on Java applications, plugin development and reusable libraries.
