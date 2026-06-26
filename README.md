@@ -1,9 +1,77 @@
-```md
-# João Manoel 👋
+<h1 align="center">Hi there 👋, I'm João Manoel</h1>
+
+<h3 align="center">
+Java Backend Developer • Minecraft Plugin Developer • Open Source Enthusiast
+</h3>
 
 <p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaomanoelaraujo&color=blueviolet&style=for-the-badge)
+<a href="https://github.com/joaomanoelaraujo">
+<img src="https://img.shields.io/github/followers/joaomanoelaraujo?label=Followers&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=joaomanoelaraujo&style=for-the-badge&color=blueviolet">
+
+<img src="https://img.shields.io/github/stars/joaomanoelaraujo?affiliations=OWNER&style=for-the-badge">
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```java
+public class JoaoManoel {
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript"
+    };
+
+    String[] backend = {
+        "Node.js",
+        "Spigot API",
+        "Paper API",
+        "Bukkit API"
+    };
+
+    String[] databases = {
+        "MySQL",
+        "MariaDB",
+        "SQLite",
+        "MongoDB"
+    };
+
+    String[] tools = {
+        "Git",
+        "GitHub",
+        "Maven",
+        "IntelliJ IDEA"
+    };
+
+}
+```
+
+I'm a Brazilian Backend Developer focused on creating scalable software and premium Minecraft plugins.
+
+Currently working on Java applications, plugin development and reusable libraries.
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,mysql,mongodb,git,github,html,css,idea,vscode,maven&perline=7"/>
+
+</p>
+
+---
+
+# 💻 Technologies
+
+<p align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-Paper-orange?style=for-the-badge)
@@ -12,6 +80,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,62 +90,75 @@
 
 ---
 
-## 👨‍💻 About Me
-
-Java Backend Developer passionate about creating high-performance applications, Minecraft plugins and scalable systems.
-
-Currently working with:
-
-- ☕ Java
-- ⚡ Spigot & Paper API
-- 🗄️ MySQL, MariaDB & SQLite
-- 🌐 Node.js
-- 🐍 Python
-- 💻 JavaScript
-- 🎨 HTML & CSS
-- 🛠 Git & GitHub
-- 🌍 WordPress
-
----
-
-## 🚀 Technologies
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,mysql,mongodb,git,github,html,css,idea,vscode&perline=6"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomanoelaraujo&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelaraujo&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaomanoelaraujo&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelaraujo&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=joaomanoelaraujo&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💼 What I'm Working On
+# 📈 Activity Graph
 
-- 🚀 Premium Minecraft plugins
-- ☕ Java backend applications
-- 📚 Reusable libraries
-- 🏗️ Software architecture
-- 🔒 Database systems
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomanoelaraujo&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🌎 Connect with Me
+# 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joaomanoelaraujo&theme=discord&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### ⚡ VoidlessPlugin
+
+Core library used by all Voidless plugins.
+
+- Configuration API
+- Database API
+- Inventory API
+- Utilities
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build premium Minecraft plugins.
+- 📚 Improve software architecture.
+- ☕ Master Java ecosystem.
+- 🌎 Grow the Voidless project.
+- ❤️ Contribute to Open Source.
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
 <a href="mailto:johnmanoelaraujo@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
@@ -85,16 +167,22 @@ Currently working with:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.instagram.com/eujoohnm/">
+<a href="https://www.instagram.com/eujoohnm">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 </p>
 
 ---
 
-> *"Building scalable software with Java."*
-```
+<p align="center">
+
+### 💜 Thanks for visiting!
+
+*"Building scalable software with Java."*
+
+</p>
