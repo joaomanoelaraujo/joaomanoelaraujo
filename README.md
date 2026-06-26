@@ -29,8 +29,9 @@ Currently working on Java applications, plugin development and reusable librarie
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,mysql,mongodb,git,github,html,css,idea,vscode,maven&perline=7"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter,python,javascript,nodejs,mysql,mongodb,sqlite,git,github,html,css,wordpress,idea,vscode,maven&perline=8"/>
+</p>
 
 </p>
 
